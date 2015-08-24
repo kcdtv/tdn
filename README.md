@@ -34,9 +34,12 @@ The **TEW-818 DRU** was launched just before the 828. It is an expensive device 
 
 # **HOW TO USE tdn.sh** (bash version)
 
-It is a very simple bash script that can be run in any GNU-Linux ditribution. No dependencies needed. 
+It is a very simple bash script that can be run in any GNU-Linux ditribution. No dependencies needed :
+
 1. download and unzip this repository branch
+
 2. locate a shell in the unziped directory with <code>cd</code>
-3. launch the script by invoking bash
-    <code>bash tdn.sh</code>
+
+3. launch the script by invoking bash <code>bash tdn.sh</code>
+
 4. Introduce (as prompted in the shell) the **full 2.4 Ghz BSSID in it original format** ( 6 pairs of hexadecimal digits separated by two points ":" ) 
