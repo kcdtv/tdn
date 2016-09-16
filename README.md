@@ -2,7 +2,7 @@
 
 # **Affected devices**
 
-The **TEW-828 DRU** is the very last model from TRENDnet. It is an expensive trial-band device that can reach 3200Mbps.
+The **TEW-828 DRU** is the very last model from TRENDnet. It is an expensive trial-band device that can reach 3200Mbps (cumulated) 
 
 The **TEW-818 DRU** was launched just before the 828. It is an expensive device too with a "abgn" dual-band Technology. It can reach 1900Mbps.   
 
