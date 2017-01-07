@@ -141,7 +141,7 @@ echo -e "$NOcolor"
 OUI=$( echo $BSSID | cut -c -8 |  tr '[:lower:]' '[:upper:]')         # to avoid error lower case are converted to upper case
 case $OUI in                             # control structure to define two beahviours
    D8:EB:97 | 00:14:D1 |  3C:8C:F8 )               # first behaviour : The Mac adress belongs to TRENDdnet
-     echo -e "            $green    OUI-CHECK :$white mas adress belongs to TRENDnet"
+     echo -e "            $green    OUI-CHECK :$white mac adress belongs to TRENDnet"
      ALGORITHM                        
      CHECKSUM                         
      echo -e "
@@ -154,7 +154,7 @@ $NOcolor                   for support visit $yellow www.wifi-libre.com$NOcolor
                                      "
    ;;
    * )                           # second case : MAC adress is not from TRENDnet
-     echo -e "         $red OUI-CHECK FAILED! This mas adress does not belong to TRENDnet!"
+     echo -e "         $red OUI-CHECK FAILED! This mac adress does not belong to TRENDnet!"
      ALGORITHM
      CHECKSUM
      echo -e "    $NOcolor                    (The PIN generated is $white$PIN$NOcolor)
