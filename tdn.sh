@@ -13,7 +13,7 @@ VERSION=1.0
 #                             CREDITS  
 #
 #  breach and algorithm = kcdtv
-#  code = kcdtv (with indirect the participation of antares_145) 
+#  code = kcdtv (with indirect participation from antares_145) 
 #
 #                            WEB SITEs
 #
