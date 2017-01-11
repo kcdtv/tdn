@@ -4,7 +4,7 @@ VERSION=1.0
 
 #
 #
-#                          LEGAL ADVISORY
+#                            LEGAL ADVISORY
 #
 #  tdn.sh - copyleft 25th june 2015 (kcdtv for wifi-libre) 
 #  tdn.sh is a bash script published under the terms of GPL v3 licence. You can modifie it and share it freely as long as you respect the rules established by the free software association ( visit for more details http://gplv3.fsf.org/ )
